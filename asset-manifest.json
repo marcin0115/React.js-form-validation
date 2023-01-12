@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React.js-form-validation/static/css/main.f574dd72.css",
+    "main.js": "/React.js-form-validation/static/js/main.a6155b76.js",
+    "static/media/bg.jpg": "/React.js-form-validation/static/media/bg.12c34ae62ed1561cdadb.jpg",
+    "index.html": "/React.js-form-validation/index.html",
+    "main.f574dd72.css.map": "/React.js-form-validation/static/css/main.f574dd72.css.map",
+    "main.a6155b76.js.map": "/React.js-form-validation/static/js/main.a6155b76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f574dd72.css",
+    "static/js/main.a6155b76.js"
+  ]
+}
